@@ -2,11 +2,9 @@
 
 ## 📈 GitHub Stats
 
-<div align='center'>
-  <img align='middle' src="https://github-readme-stats.vercel.app/api?username=Paulin-Dev&show_icons=true&theme=transparent&count_private=false&custom_title=Paulin%27s%20Stats" alt='GitHub Stats'>
-    ㅤㅤㅤ
-  <img align='middle' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Paulin-Dev&layout=compact&theme=transparent&hide=jupyter%20notebook' alt='Top languages'>
-</div>
+<div align='center'><img src="https://github-readme-stats.vercel.app/api?username=Paulin-Dev&show_icons=true&theme=transparent&count_private=false&custom_title=Paulin%27s%20Stats" alt='GitHub Stats'></div>  
+<br>
+<div align='center'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Paulin-Dev&layout=compact&theme=transparent&hide=jupyter%20notebook' alt='Top languages'></div>
 
 ## 🔧 Technologies & Tools
 
@@ -22,7 +20,7 @@
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=0260E3)
 
 ## 🏆 GitHub Stat Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Paulin-Dev&no-bg=true&no-frame=true&margin-w=20&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=gitdimmed)](https://github.com/Paulin-Dev)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Paulin-Dev&no-bg=true&no-frame=true&margin-w=20&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=algolia)](https://github.com/Paulin-Dev)
 
 <!--
 - 🔭 I’m currently working on ...
