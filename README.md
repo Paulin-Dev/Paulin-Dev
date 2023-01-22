@@ -20,7 +20,8 @@
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=0260E3)
 
 ## 🏆 GitHub Stat Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Paulin-Dev&no-bg=true&no-frame=true&margin-w=20&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=algolia)](https://github.com/Paulin-Dev)
+
+![](https://github-profile-trophy.vercel.app/?username=Paulin-Dev&no-bg=true&no-frame=true&margin-w=20&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme='algolia')
 
 <!--
 - 🔭 I’m currently working on ...
