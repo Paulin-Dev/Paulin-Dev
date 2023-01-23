@@ -21,7 +21,7 @@
 
 ## 🏆 GitHub Stat Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Paulin-Dev&no-bg=true&no-frame=true&margin-w=20&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme='algolia')
+![](https://github-profile-trophy.vercel.app/?username=Paulin-Dev&no-bg=true&no-frame=true&margin-w=20&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=algolia)
 
 <!--
 - 🔭 I’m currently working on ...
