@@ -2,9 +2,9 @@
 
 ## 📈 GitHub Stats
 
-<div align='center'><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Paulin-Dev&show_icons=true&theme=transparent&custom_title=Paulin%27s%20Stats" alt='GitHub Stats'></div>  
+<div align='center'><img src="https://github-readme-stats.vercel.app/api?username=Paulin-Dev&show_icons=true&theme=transparent&custom_title=Paulin%27s%20Stats" alt='GitHub Stats'></div>  
 <br>
-<div align='center'><img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Paulin-Dev&layout=compact&theme=transparent&hide=jupyter%20notebook' alt='Top languages'></div>
+<div align='center'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Paulin-Dev&layout=compact&theme=transparent&hide=jupyter%20notebook' alt='Top languages'></div>
 
 ## 🔧 Technologies & Tools
 
