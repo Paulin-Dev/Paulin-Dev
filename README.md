@@ -1,5 +1,4 @@
-![image](https://github.com/Paulin-Dev/Paulin-Dev/assets/92094732/3ad1de34-b37c-472b-9531-b21cb992f16e)
-![Header](./test.png)
+![Header](./header.png)
 
 ## 📈 GitHub Stats
 <!--
